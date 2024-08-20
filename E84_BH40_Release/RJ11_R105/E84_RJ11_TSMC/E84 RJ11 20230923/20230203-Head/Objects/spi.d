@@ -1,0 +1,13 @@
+.\objects\spi.o: StdDriver\src\spi.c
+.\objects\spi.o: .\system\M0518.h
+.\objects\spi.o: .\system\core_cm0.h
+.\objects\spi.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\spi.o: .\system\core_cmInstr.h
+.\objects\spi.o: .\system\core_cmFunc.h
+.\objects\spi.o: .\system\system_M0518.h
+.\objects\spi.o: .\StdDriver\inc\SYS.h
+.\objects\spi.o: .\StdDriver\inc\GPIO.h
+.\objects\spi.o: .\StdDriver\inc\PWM.h
+.\objects\spi.o: .\StdDriver\inc\TIMER.h
+.\objects\spi.o: .\StdDriver\inc\CLK.h
+.\objects\spi.o: .\StdDriver\inc\spi.h

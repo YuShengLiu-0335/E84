@@ -1,0 +1,13 @@
+.\objects\read.o: source\read.c
+.\objects\read.o: .\system\M0518.h
+.\objects\read.o: .\system\core_cm0.h
+.\objects\read.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\read.o: .\system\core_cmInstr.h
+.\objects\read.o: .\system\core_cmFunc.h
+.\objects\read.o: .\system\system_M0518.h
+.\objects\read.o: .\StdDriver\inc\SYS.h
+.\objects\read.o: .\StdDriver\inc\CLK.h
+.\objects\read.o: .\header\def_const.h
+.\objects\read.o: .\header\def_exram.h
+.\objects\read.o: .\header\def_struct.h
+.\objects\read.o: .\header\def_flag.h

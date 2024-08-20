@@ -1,0 +1,16 @@
+.\objects\userpwm.o: source\UserPWM.c
+.\objects\userpwm.o: .\system\M0518.h
+.\objects\userpwm.o: .\system\core_cm0.h
+.\objects\userpwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\userpwm.o: .\system\core_cmInstr.h
+.\objects\userpwm.o: .\system\core_cmFunc.h
+.\objects\userpwm.o: .\system\system_M0518.h
+.\objects\userpwm.o: .\StdDriver\inc\SYS.h
+.\objects\userpwm.o: .\StdDriver\inc\GPIO.h
+.\objects\userpwm.o: .\StdDriver\inc\PWM.h
+.\objects\userpwm.o: .\StdDriver\inc\TIMER.h
+.\objects\userpwm.o: .\StdDriver\inc\CLK.h
+.\objects\userpwm.o: source\UserPWM.h
+.\objects\userpwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\userpwm.o: source\UserTimer1.h
+.\objects\userpwm.o: source\UserTimer2.h

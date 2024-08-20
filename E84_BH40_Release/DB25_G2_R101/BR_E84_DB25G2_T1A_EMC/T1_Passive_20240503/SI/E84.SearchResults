@@ -1,0 +1,2 @@
+---- L_Period Matches (1 in 1 files) ----
+UserPWM1.c (e:\brillian\project\tsmc\e84\autoclean-v18-reduce-printf-wdt-release\keil_v3\source):volatile  uint16_t H_Period,L_Period;	

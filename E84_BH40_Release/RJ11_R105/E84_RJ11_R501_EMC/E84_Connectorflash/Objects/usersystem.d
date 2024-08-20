@@ -1,0 +1,12 @@
+.\objects\usersystem.o: BRDriver\UserSystem.c
+.\objects\usersystem.o: .\system\M0518.h
+.\objects\usersystem.o: .\system\core_cm0.h
+.\objects\usersystem.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\usersystem.o: .\system\core_cmInstr.h
+.\objects\usersystem.o: .\system\core_cmFunc.h
+.\objects\usersystem.o: .\system\system_M0518.h
+.\objects\usersystem.o: .\StdDriver\inc\SYS.h
+.\objects\usersystem.o: .\StdDriver\inc\GPIO.h
+.\objects\usersystem.o: .\StdDriver\inc\PWM.h
+.\objects\usersystem.o: .\StdDriver\inc\TIMER.h
+.\objects\usersystem.o: .\StdDriver\inc\CLK.h

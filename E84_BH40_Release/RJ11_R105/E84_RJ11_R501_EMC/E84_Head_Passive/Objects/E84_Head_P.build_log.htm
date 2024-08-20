@@ -1,0 +1,154 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: £gVision V5.28.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: YP Chen, Brillian, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.28.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.28.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.2.0
+Target DLL:      Nu_Link.dll V3.07
+Dialog DLL:      TARMCM1.DLL V1.14.1.0
+ 
+<h2>Project:</h2>
+C:\E84firmware\E84 RJ11 Flash\20230203-Head\BR_E84.uvprojx
+Project File Date:  12/16/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+assembling startup_M0518.s...
+compiling core_cm0.c...
+compiling system_M0518.c...
+compiling retarget.c...
+compiling fmc.c...
+compiling logrecord.c...
+source\logrecord.h(43): warning:  #1-D: last line of file ends without a newline
+  #endif
+source\logrecord.c(33): warning:  #177-D: variable "j"  was declared but never referenced
+  	uint8_t i,j;
+source\logrecord.c(75): warning:  #177-D: variable "address"  was declared but never referenced
+  	uint16_t address;
+source\logrecord.c(76): warning:  #177-D: variable "L_bit"  was declared but never referenced
+  	uint8_t i,L_bit,M_bit,H_bit;
+source\logrecord.c(76): warning:  #177-D: variable "M_bit"  was declared but never referenced
+  	uint8_t i,L_bit,M_bit,H_bit;
+source\logrecord.c(76): warning:  #177-D: variable "H_bit"  was declared but never referenced
+  	uint8_t i,L_bit,M_bit,H_bit;
+source\logrecord.c(77): warning:  #177-D: variable "head_data_r"  was declared but never referenced
+  	uint8_t head_data_r[16];
+source\logrecord.c(339): warning:  #1-D: last line of file ends without a newline
+  }
+source\logrecord.c(328): warning:  #177-D: variable "address"  was declared but never referenced
+  	uint16_t address;
+source\logrecord.c(329): warning:  #177-D: variable "L_bit"  was declared but never referenced
+  	uint8_t i,L_bit,M_bit,H_bit;
+source\logrecord.c(329): warning:  #177-D: variable "M_bit"  was declared but never referenced
+  	uint8_t i,L_bit,M_bit,H_bit;
+source\logrecord.c(329): warning:  #177-D: variable "H_bit"  was declared but never referenced
+  	uint8_t i,L_bit,M_bit,H_bit;
+source\logrecord.c: 12 warnings, 0 errors
+compiling main.c...
+source\logrecord.h(43): warning:  #1-D: last line of file ends without a newline
+  #endif
+source\main.c: 1 warning, 0 errors
+compiling gpio.c...
+compiling clk.c...
+compiling sys.c...
+compiling pwm.c...
+compiling timer.c...
+compiling spi.c...
+compiling uart.c...
+compiling UserE84.c...
+compiling UserFMC.c...
+BRDriver\UserFMC.c(82): warning:  #550-D: variable "u32Data"  was set but never used
+      uint32_t u32Data;
+BRDriver\UserFMC.c: 1 warning, 0 errors
+compiling UserPWM0.c...
+compiling UserSystem.c...
+compiling UserPWM1.c...
+compiling UserTimer1.c...
+compiling UserTimer2.c...
+compiling UserWDT.c...
+compiling UserE84_C.c...
+compiling UserSpi.c...
+BRDriver\UserSpi.c(96): warning:  #177-D: variable "index"  was declared but never referenced
+  	uint8_t  index, datalength;
+BRDriver\UserSpi.c(96): warning:  #177-D: variable "datalength"  was declared but never referenced
+  	uint8_t  index, datalength;
+BRDriver\UserSpi.c(97): warning:  #177-D: variable "checksum"  was declared but never referenced
+    uint16_t checksum, checksumtarget;
+BRDriver\UserSpi.c(97): warning:  #177-D: variable "checksumtarget"  was declared but never referenced
+    uint16_t checksum, checksumtarget;
+BRDriver\UserSpi.c(98): warning:  #177-D: variable "receivecount"  was declared but never referenced
+    uint16_t receivecount;
+BRDriver\UserSpi.c(136): warning:  #177-D: variable "datalength"  was declared but never referenced
+  		uint8_t  i, datalength;
+BRDriver\UserSpi.c(138): warning:  #177-D: variable "checksum"  was declared but never referenced
+  		uint16_t checksum, checksumtarget;
+BRDriver\UserSpi.c(138): warning:  #177-D: variable "checksumtarget"  was declared but never referenced
+  		uint16_t checksum, checksumtarget;
+BRDriver\UserSpi.c(139): warning:  #177-D: variable "receivecount"  was declared but never referenced
+  		uint16_t receivecount;
+BRDriver\UserSpi.c(180): warning:  #177-D: variable "Local_8"  was declared but never referenced
+  	uint32_t Local_8=0;
+BRDriver\UserSpi.c(210): warning:  #177-D: variable "i"  was declared but never referenced
+  	uint8_t i =0;
+BRDriver\UserSpi.c: 11 warnings, 0 errors
+compiling UserUart.c...
+.\source\logrecord.h(43): warning:  #1-D: last line of file ends without a newline
+  #endif
+BRDriver\UserUart.c(442): warning:  #550-D: variable "tempSetData"  was set but never used
+  	uint32_t tempSetData;
+BRDriver\UserUart.c(443): warning:  #177-D: variable "Result"  was declared but never referenced
+  	uint8_t Result=1;//0:Finish		1:Undefined
+BRDriver\UserUart.c(644): warning:  #177-D: variable "IOHex"  was declared but never referenced
+  	char IOHex;
+BRDriver\UserUart.c(727): warning:  #177-D: variable "IOHex"  was declared but never referenced
+    char IOHex;
+BRDriver\UserUart.c(728): warning:  #550-D: variable "tempstatus"  was set but never used
+    uint32_t tempstatus;
+BRDriver\UserUart.c(810): warning:  #177-D: variable "IOHex"  was declared but never referenced
+    char IOHex;
+BRDriver\UserUart.c: 7 warnings, 0 errors
+linking...
+Program Size: Code=14780 RO-data=360 RW-data=216 ZI-data=2560  
+FromELF: creating hex file...
+After Build - User command #1: fromelf --bin ".\Objects\E84_Head_P.axf" --output ".\Objects\E84_Head_P.bin"
+".\Objects\E84_Head_P.axf" - 0 Error(s), 32 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.5.1.pack
+                ARM.CMSIS.5.5.1
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.2.0
+
+Package Vendor: Nuvoton
+                https://www.nuvoton.com/enu/Documents/KEILSoftwarePack/Nuvoton.NuMicro_DFP.1.3.12.pack
+                Nuvoton.NuMicro_DFP.1.3.12
+                Nuvoton ARM Cortex-M NuMicro Family Device Support
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_Target_1
+  C:\Keil Arm Pack\ARM\CMSIS\5.5.1\CMSIS\Core\Include
+  C:\Keil Arm Pack\Nuvoton\NuMicro_DFP\1.3.12\Device\M0518\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.2.0
+Build Time Elapsed:  00:00:04
+</pre>
+</body>
+</html>

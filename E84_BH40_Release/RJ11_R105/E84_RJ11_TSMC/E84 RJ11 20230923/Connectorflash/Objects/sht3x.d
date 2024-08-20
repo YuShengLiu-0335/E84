@@ -1,0 +1,14 @@
+.\objects\sht3x.o: source\Sht3x.c
+.\objects\sht3x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\sht3x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sht3x.o: .\system\M0518.h
+.\objects\sht3x.o: .\system\core_cm0.h
+.\objects\sht3x.o: .\system\core_cmInstr.h
+.\objects\sht3x.o: .\system\core_cmFunc.h
+.\objects\sht3x.o: .\system\system_M0518.h
+.\objects\sht3x.o: .\StdDriver\inc\SYS.h
+.\objects\sht3x.o: .\StdDriver\inc\CLK.h
+.\objects\sht3x.o: .\header\def_const.h
+.\objects\sht3x.o: .\header\def_struct.h
+.\objects\sht3x.o: source\I2C_GPIO.h
+.\objects\sht3x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

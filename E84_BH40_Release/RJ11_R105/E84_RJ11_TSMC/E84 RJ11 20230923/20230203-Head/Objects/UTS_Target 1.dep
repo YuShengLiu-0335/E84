@@ -1,0 +1,230 @@
+Dependencies for Project 'UTS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\system\system_M0518.c)(0x549B7B24)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\system_m0518.o --omf_browse .\objects\system_m0518.crf --depend .\objects\system_m0518.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (system\M0518.h)(0x5C84CABD)
+I (system\core_cm0.h)(0x549B7B22)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\system\startup_M0518.s)(0x549B7B24)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1"--list .\listings\startup_m0518.lst --xref -o .\objects\startup_m0518.o --depend .\objects\startup_m0518.d)
+F (.\system\core_cm0.c)(0x4C80A772)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\core_cm0.o --omf_browse .\objects\core_cm0.crf --depend .\objects\core_cm0.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+F (.\StdDriver\src\retarget.c)(0x5C88B927)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\retarget.o --omf_browse .\objects\retarget.crf --depend .\objects\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\source\main.c)(0x5CA2BA8D)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+I (.\header\def_const.h)(0x5BF36118)
+I (.\header\def_flag.h)(0x5BFE48CE)
+I (.\header\def_ram.h)(0x5BE12C18)
+I (.\header\def_struct.h)(0x5A309921)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (source\UserTimer1.h)(0x5C8C52B8)
+I (source\UserTimer2.h)(0x5C8C5288)
+I (source\UserSystem.h)(0x5C81BF7A)
+I (source\UserWDT.h)(0x5C81BDBB)
+I (source\UserPWM0.h)(0x5C98508F)
+I (source\UserPWM1.h)(0x5C997DB5)
+F (.\source\UserFMC.c)(0x5C8C5FBF)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\userfmc.o --omf_browse .\objects\userfmc.crf --depend .\objects\userfmc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+I (.\StdDriver\inc\fmc.h)(0x549B7B24)
+I (source\UserFMC.h)(0x5BFE0C04)
+I (source\Motor.h)(0x5BFE0D41)
+F (.\source\UserSystem.c)(0x5C88B891)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\usersystem.o --omf_browse .\objects\usersystem.crf --depend .\objects\usersystem.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\source\UserWDT.c)(0x5C8C578C)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\userwdt.o --omf_browse .\objects\userwdt.crf --depend .\objects\userwdt.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\source\UserPWM1.c)(0x5CA2BA5C)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\userpwm1.o --omf_browse .\objects\userpwm1.crf --depend .\objects\userpwm1.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (source\UserTimer1.h)(0x5C8C52B8)
+I (source\UserTimer2.h)(0x5C8C5288)
+I (source\UserPWM1.h)(0x5C997DB5)
+I (source\UserPWM0.h)(0x5C98508F)
+F (.\source\UserTimer1.c)(0x5C8C552E)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\usertimer1.o --omf_browse .\objects\usertimer1.crf --depend .\objects\usertimer1.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\source\UserTimer2.c)(0x5C8C56C7)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\usertimer2.o --omf_browse .\objects\usertimer2.crf --depend .\objects\usertimer2.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\source\UserPWM0.c)(0x5CA2F1AE)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\userpwm0.o --omf_browse .\objects\userpwm0.crf --depend .\objects\userpwm0.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (source\UserPWM0.h)(0x5C98508F)
+I (source\UserPWM1.h)(0x5C997DB5)
+I (source\UserTimer1.h)(0x5C8C52B8)
+I (source\UserTimer2.h)(0x5C8C5288)
+F (.\system\M0518.h)(0x5C84CABD)()
+F (.\header\def_const.h)(0x5BF36118)()
+F (.\header\def_exram.h)(0x570DBFEC)()
+F (.\header\def_flag.h)(0x5BFE48CE)()
+F (.\header\def_ram.h)(0x5BE12C18)()
+F (.\header\def_struct.h)(0x5A309921)()
+F (.\StdDriver\src\fmc.c)(0x5BE3DB44)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\fmc.o --omf_browse .\objects\fmc.crf --depend .\objects\fmc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+I (.\StdDriver\inc\fmc.h)(0x549B7B24)
+F (.\StdDriver\src\gpio.c)(0x5C83DB4E)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\StdDriver\src\clk.c)(0x5C8337A6)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\StdDriver\src\pwm.c)(0x549B7B26)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\pwm.o --omf_browse .\objects\pwm.crf --depend .\objects\pwm.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\StdDriver\src\sys.c)(0x549B7B26)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)
+F (.\StdDriver\src\timer.c)(0x55FBC52A)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\system -I .\StdDriver\inc -I .\header-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.2.1\Device\M0518\Include-D__UVISION_VERSION="526" -D_RTE_ -DDEBUG_ENABLE_SEMIHOST="1"-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (.\system\M0518.h)(0x5C84CABD)
+I (.\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\system\core_cmInstr.h)(0x549B7B24)
+I (.\system\core_cmFunc.h)(0x549B7B24)
+I (.\system\system_M0518.h)(0x5C833564)
+I (.\StdDriver\inc\SYS.h)(0x549B7B24)
+I (.\StdDriver\inc\GPIO.h)(0x549B7B24)
+I (.\StdDriver\inc\PWM.h)(0x549B7B24)
+I (.\StdDriver\inc\TIMER.h)(0x549B7B24)
+I (.\StdDriver\inc\CLK.h)(0x5C833667)

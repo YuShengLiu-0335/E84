@@ -1,0 +1,16 @@
+.\objects\e84_c.o: source\E84_C.c
+.\objects\e84_c.o: .\system\M0518.h
+.\objects\e84_c.o: .\system\core_cm0.h
+.\objects\e84_c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\e84_c.o: .\system\core_cmInstr.h
+.\objects\e84_c.o: .\system\core_cmFunc.h
+.\objects\e84_c.o: .\system\system_M0518.h
+.\objects\e84_c.o: .\StdDriver\inc\SYS.h
+.\objects\e84_c.o: .\StdDriver\inc\GPIO.h
+.\objects\e84_c.o: .\StdDriver\inc\PWM.h
+.\objects\e84_c.o: .\StdDriver\inc\TIMER.h
+.\objects\e84_c.o: .\StdDriver\inc\CLK.h
+.\objects\e84_c.o: source\E84_C.h
+.\objects\e84_c.o: .\BRDriver\UserE84.h
+.\objects\e84_c.o: .\BRDriver\UserM518.h
+.\objects\e84_c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

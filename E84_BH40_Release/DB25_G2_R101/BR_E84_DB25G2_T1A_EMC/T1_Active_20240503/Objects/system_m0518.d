@@ -1,0 +1,12 @@
+.\objects\system_m0518.o: system\system_M0518.c
+.\objects\system_m0518.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\system_m0518.o: system\M0518.h
+.\objects\system_m0518.o: system\core_cm0.h
+.\objects\system_m0518.o: .\system\core_cmInstr.h
+.\objects\system_m0518.o: .\system\core_cmFunc.h
+.\objects\system_m0518.o: system\system_M0518.h
+.\objects\system_m0518.o: .\StdDriver\inc\SYS.h
+.\objects\system_m0518.o: .\StdDriver\inc\GPIO.h
+.\objects\system_m0518.o: .\StdDriver\inc\PWM.h
+.\objects\system_m0518.o: .\StdDriver\inc\TIMER.h
+.\objects\system_m0518.o: .\StdDriver\inc\CLK.h

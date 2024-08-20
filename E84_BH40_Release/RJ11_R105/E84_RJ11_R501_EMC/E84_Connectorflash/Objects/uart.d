@@ -1,0 +1,14 @@
+.\objects\uart.o: StdDriver\src\uart.c
+.\objects\uart.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\uart.o: .\system\M0518.h
+.\objects\uart.o: .\system\core_cm0.h
+.\objects\uart.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\uart.o: .\system\core_cmInstr.h
+.\objects\uart.o: .\system\core_cmFunc.h
+.\objects\uart.o: .\system\system_M0518.h
+.\objects\uart.o: .\StdDriver\inc\SYS.h
+.\objects\uart.o: .\StdDriver\inc\GPIO.h
+.\objects\uart.o: .\StdDriver\inc\PWM.h
+.\objects\uart.o: .\StdDriver\inc\TIMER.h
+.\objects\uart.o: .\StdDriver\inc\CLK.h
+.\objects\uart.o: .\StdDriver\inc\uart.h

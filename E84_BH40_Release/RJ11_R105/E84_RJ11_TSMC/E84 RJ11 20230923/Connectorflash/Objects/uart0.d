@@ -1,0 +1,13 @@
+.\objects\uart0.o: source\uart0.c
+.\objects\uart0.o: .\system\M0518.h
+.\objects\uart0.o: .\system\core_cm0.h
+.\objects\uart0.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart0.o: .\system\core_cmInstr.h
+.\objects\uart0.o: .\system\core_cmFunc.h
+.\objects\uart0.o: .\system\system_M0518.h
+.\objects\uart0.o: .\StdDriver\inc\SYS.h
+.\objects\uart0.o: .\StdDriver\inc\CLK.h
+.\objects\uart0.o: .\header\def_const.h
+.\objects\uart0.o: .\header\def_exram.h
+.\objects\uart0.o: .\header\def_struct.h
+.\objects\uart0.o: .\header\def_flag.h

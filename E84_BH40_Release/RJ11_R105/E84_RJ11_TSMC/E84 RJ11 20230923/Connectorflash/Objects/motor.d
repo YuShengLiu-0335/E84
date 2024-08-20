@@ -1,0 +1,16 @@
+.\objects\motor.o: source\Motor.c
+.\objects\motor.o: .\system\M0518.h
+.\objects\motor.o: .\system\core_cm0.h
+.\objects\motor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motor.o: .\system\core_cmInstr.h
+.\objects\motor.o: .\system\core_cmFunc.h
+.\objects\motor.o: .\system\system_M0518.h
+.\objects\motor.o: .\StdDriver\inc\SYS.h
+.\objects\motor.o: .\StdDriver\inc\GPIO.h
+.\objects\motor.o: .\StdDriver\inc\PWM.h
+.\objects\motor.o: .\StdDriver\inc\TIMER.h
+.\objects\motor.o: .\StdDriver\inc\CLK.h
+.\objects\motor.o: .\header\Def_const.h
+.\objects\motor.o: source\Motor.h
+.\objects\motor.o: .\header\def_flag.h
+.\objects\motor.o: source\Key.h

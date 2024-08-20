@@ -1,0 +1,160 @@
+Dependencies for Project 'UTS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\system\system_M0518.c)(0x549B7B24)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\system_m0518.o --depend .\objects\system_m0518.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+F (.\system\startup_M0518.s)(0x549B7B24)(--cpu "Cortex-M0" --pd "__EVAL SETA 1" -g --apcs /interwork-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include--list --xref -o .\objects\startup_m0518.o --depend .\objects\startup_m0518.d)
+F (.\system\core_cm0.c)(0x4C80A772)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\core_cm0.o --depend .\objects\core_cm0.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+F (.\StdDriver\src\retarget.c)(0x5B91E218)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\retarget.o --depend .\objects\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+F (.\source\main.c)(0x5BE14E15)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\main.o --depend .\objects\main.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_ram.h)(0x5BE12C18)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\source\Sht3x.h)(0x5B91FA32)
+F (.\source\init.c)(0x5A55AB5D)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\init.o --depend .\objects\init.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+F (.\source\timer0.c)(0x5BE13F95)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\timer0.o --depend .\objects\timer0.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+F (.\source\uart1.c)(0x5ACEF556)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\uart1.o --depend .\objects\uart1.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+F (.\source\fun.c)(0x5B976607)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\fun.o --depend .\objects\fun.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+F (.\source\read.c)(0x59769BEE)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\read.o --depend .\objects\read.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+F (.\source\adc.c)(0x59C08507)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\adc.o --depend .\objects\adc.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+F (.\source\uart3.c)(0x5B441483)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\uart3.o --depend .\objects\uart3.d)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_exram.h)(0x570DBFEC)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_flag.h)(0x5BE13B94)
+F (.\source\I2C_GPIO.c)(0x5B9B5AF9)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\i2c_gpio.o --depend .\objects\i2c_gpio.d)
+I (C:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+F (.\source\Sht3x.c)(0x5BB3272C)(-c --cpu "Cortex-M0" -D__EVAL -g -Wabdfrvy+glpsu -O0 --apcs=/interwork --split_sections -I.\system -I.\StdDriver\inc -I.\header-I C:\Keil_v5\ARM\ARMCC\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-DDEBUG_ENABLE_SEMIHOST="1" -o .\objects\sht3x.o --depend .\objects\sht3x.d)
+I (C:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\M0518.h)(0x56E91D6C)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cm0.h)(0x549B7B22)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmInstr.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\core_cmFunc.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\system\system_M0518.h)(0x596EC9FB)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\SYS.h)(0x549B7B24)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\StdDriver\inc\CLK.h)(0x55F79608)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_const.h)(0x5BE0EAF6)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\header\def_struct.h)(0x5A309921)
+I (E:\Brillian\Project\AutoClean\FW\CortexM\KEIL_V3-20180707-3-1\KEIL_V3\source\I2C_GPIO.h)(0x5B91DFD8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+F (.\system\M0518.h)(0x56E91D6C)()
+F (.\header\def_const.h)(0x5BE0EAF6)()
+F (.\header\def_exram.h)(0x570DBFEC)()
+F (.\header\def_flag.h)(0x5BE13B94)()
+F (.\header\def_ram.h)(0x5BE12C18)()
+F (.\header\def_struct.h)(0x5A309921)()

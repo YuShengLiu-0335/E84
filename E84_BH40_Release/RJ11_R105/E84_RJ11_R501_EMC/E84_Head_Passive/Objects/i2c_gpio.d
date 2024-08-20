@@ -1,0 +1,11 @@
+.\objects\i2c_gpio.o: source\I2C_GPIO.c
+.\objects\i2c_gpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\i2c_gpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c_gpio.o: .\system\M0518.h
+.\objects\i2c_gpio.o: .\system\core_cm0.h
+.\objects\i2c_gpio.o: .\system\core_cmInstr.h
+.\objects\i2c_gpio.o: .\system\core_cmFunc.h
+.\objects\i2c_gpio.o: .\system\system_M0518.h
+.\objects\i2c_gpio.o: .\StdDriver\inc\SYS.h
+.\objects\i2c_gpio.o: .\StdDriver\inc\CLK.h
+.\objects\i2c_gpio.o: .\header\def_const.h

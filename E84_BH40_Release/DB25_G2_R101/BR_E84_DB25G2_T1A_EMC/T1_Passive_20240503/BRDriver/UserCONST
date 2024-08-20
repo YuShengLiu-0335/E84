@@ -1,0 +1,11 @@
+#include "M0518.h"
+#define P01 PB12
+#define P04 PA11
+#define P05 PA10
+#define P06 PA9
+#define P07 PA8
+#define P08 PB4
+#define P09 PB5
+#define P15 PB2
+#define P16 PB3
+#define P17 PD6

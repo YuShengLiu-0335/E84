@@ -1,0 +1,12 @@
+.\objects\gpio.o: StdDriver\src\gpio.c
+.\objects\gpio.o: .\system\M0518.h
+.\objects\gpio.o: .\system\core_cm0.h
+.\objects\gpio.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\gpio.o: .\system\core_cmInstr.h
+.\objects\gpio.o: .\system\core_cmFunc.h
+.\objects\gpio.o: .\system\system_M0518.h
+.\objects\gpio.o: .\StdDriver\inc\SYS.h
+.\objects\gpio.o: .\StdDriver\inc\GPIO.h
+.\objects\gpio.o: .\StdDriver\inc\PWM.h
+.\objects\gpio.o: .\StdDriver\inc\TIMER.h
+.\objects\gpio.o: .\StdDriver\inc\CLK.h

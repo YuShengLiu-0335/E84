@@ -1,0 +1,30 @@
+#include "M0518.h"
+
+void UserWDT_init(void)
+{
+//WTD
+	UNLOCKREG();
+	CLK->APBCLK |= CLK_APBCLK_WDT_EN_Msk;
+	CLK->CLKSEL1 |= CLK_CLKSEL1_WDT_S_Msk;
+	
+	WDT->WTCR &= ~WDT_WTCR_WTIS_Msk;
+	// 6.5s
+	WDT->WTCR |= WDT_WTCR_WTIS_Msk_6;
+	WDT->WTCR |= WDT_WTCR_WTE_Msk;	
+	WDT->WTCR |= WDT_WTCR_WTIE_Msk;
+	
+	WDT->WTCR |= WDT_WTCR_WTWKE_Msk;	
+	WDT->WTCR |= WDT_WTCR_WTRE_Msk;
+	WDT->WTCR |= WDT_WTCR_WTIF_Msk;
+	
+	WDT->WTCR |= WDT_WTCR_WTR_Msk;
+	LOCKREG();
+}
+
+void UserWDT_Reset(void)
+{
+	UNLOCKREG();
+	WDT->WTCR |= WDT_WTCR_WTR_Msk;
+	LOCKREG();
+}
+

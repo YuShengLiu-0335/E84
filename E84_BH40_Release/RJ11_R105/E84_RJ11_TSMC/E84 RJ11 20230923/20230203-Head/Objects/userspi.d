@@ -1,0 +1,16 @@
+.\objects\userspi.o: BRDriver\UserSpi.c
+.\objects\userspi.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\userspi.o: .\system\M0518.h
+.\objects\userspi.o: .\system\core_cm0.h
+.\objects\userspi.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\userspi.o: .\system\core_cmInstr.h
+.\objects\userspi.o: .\system\core_cmFunc.h
+.\objects\userspi.o: .\system\system_M0518.h
+.\objects\userspi.o: .\StdDriver\inc\SYS.h
+.\objects\userspi.o: .\StdDriver\inc\GPIO.h
+.\objects\userspi.o: .\StdDriver\inc\PWM.h
+.\objects\userspi.o: .\StdDriver\inc\TIMER.h
+.\objects\userspi.o: .\StdDriver\inc\CLK.h
+.\objects\userspi.o: .\StdDriver\inc\spi.h
+.\objects\userspi.o: BRDriver\UserSpi.h
+.\objects\userspi.o: BRDriver\UserTimer1.h

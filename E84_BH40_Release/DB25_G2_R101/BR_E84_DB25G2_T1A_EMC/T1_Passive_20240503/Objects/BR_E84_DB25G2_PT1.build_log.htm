@@ -1,0 +1,83 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: £gVision V5.38.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: abc abc, abc, LIC=5QQ8P-M3M6Z-1DCEK-CB2C4-SR479-UQXGC
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Cortex-M0/M23 for Nuvoton  Version: 5.38.0.0
+Toolchain Path:  C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.38.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.6.0
+Target DLL:      Nu_Link.dll V3.13
+Dialog DLL:      TARMCM1.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+D:\Z_Brillian\Z68_FW\E84_DB25_G2\BR_E84_DB25G2_T1A\T1_Passive_20240503\BR_E84_DB25G2_PT1.uvprojx
+Project File Date:  04/22/2024
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin'
+Rebuild target 'Target 1'
+assembling startup_M0518.s...
+compiling core_cm0.c...
+compiling system_M0518.c...
+compiling main.c...
+compiling clk.c...
+compiling fmc.c...
+compiling pwm.c...
+compiling gpio.c...
+compiling retarget.c...
+compiling sys.c...
+compiling UserE84.c...
+compiling timer.c...
+compiling UserFMC.c...
+BRDriver\UserFMC.c(82): warning:  #550-D: variable "u32Data"  was set but never used
+      uint32_t u32Data;
+BRDriver\UserFMC.c: 1 warning, 0 errors
+compiling UserTimer1.c...
+compiling UserPWM0.c...
+compiling UserTimer2.c...
+compiling UserPWM1.c...
+compiling UserSystem.c...
+compiling UserWDT.c...
+compiling UserE84_C.c...
+linking...
+Program Size: Code=9396 RO-data=312 RW-data=100 ZI-data=1124  
+FromELF: creating hex file...
+After Build - User command #1: fromelf --bin ".\Objects\BR_E84_DB25G2_PT1.axf" --output ".\Objects\BR_E84_DB25G2_PT1.bin"
+".\Objects\BR_E84_DB25G2_PT1.axf" - 0 Error(s), 1 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+Package Vendor: Nuvoton
+                https://github.com/OpenNuvoton/cmsis-packs/raw/master/Nuvoton_DFP/Nuvoton.NuMicro_DFP.1.3.21.pack
+                Nuvoton.NuMicro_DFP.1.3.21
+                Nuvoton ARM Cortex-M NuMicro Family Device Support
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/_Target_1
+  C:/Users/cywang/AppData/Local/Arm/Packs_538A/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+  C:/Users/cywang/AppData/Local/Arm/Packs_538A/Nuvoton/NuMicro_DFP/1.3.21/Device/M0518/Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+Build Time Elapsed:  00:00:07
+</pre>
+</body>
+</html>

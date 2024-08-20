@@ -1,0 +1,12 @@
+.\objects\userwdt.o: BRDriver\UserWDT.c
+.\objects\userwdt.o: .\system\M0518.h
+.\objects\userwdt.o: .\system\core_cm0.h
+.\objects\userwdt.o: C:\Keil_v538A\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\userwdt.o: .\system\core_cmInstr.h
+.\objects\userwdt.o: .\system\core_cmFunc.h
+.\objects\userwdt.o: .\system\system_M0518.h
+.\objects\userwdt.o: .\StdDriver\inc\SYS.h
+.\objects\userwdt.o: .\StdDriver\inc\GPIO.h
+.\objects\userwdt.o: .\StdDriver\inc\PWM.h
+.\objects\userwdt.o: .\StdDriver\inc\TIMER.h
+.\objects\userwdt.o: .\StdDriver\inc\CLK.h

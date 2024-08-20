@@ -1,0 +1,12 @@
+---- DEBUG_PORT Matches (11 in 2 files) ----
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):    while(DEBUG_PORT->FSR & UART_FSR_TX_FULL_Msk);
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):    DEBUG_PORT->DATA = ch;
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):        while(DEBUG_PORT->FSR & UART_FSR_TX_FULL_Msk);
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):        DEBUG_PORT->DATA = '\r';
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):        if((DEBUG_PORT->FSR & UART_FSR_TX_FULL_Msk) == 0)
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):            DEBUG_PORT->DATA = u8Buf[i32Tail];
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):        if((DEBUG_PORT->FSR & UART_FSR_RX_EMPTY_Msk) == 0 ) {
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):            return (DEBUG_PORT->DATA);
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):    return !((DEBUG_PORT->FSR&UART_FSR_RX_EMPTY_Msk) == 0);
+Retarget.c (f:\brillian\project\br\br e84\br404\br404\stddriver\src):    return ((DEBUG_PORT->FSR&UART_FSR_TE_FLAG_Msk) != 0);
+system_M0518.h (f:\brillian\project\br\br e84\br404\br404\system):#define DEBUG_PORT   UART0

@@ -1,0 +1,2 @@
+void UserSystemClk(void);
+

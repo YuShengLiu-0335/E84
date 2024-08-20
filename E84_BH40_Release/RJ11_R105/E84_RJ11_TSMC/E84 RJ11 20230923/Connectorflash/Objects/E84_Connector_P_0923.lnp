@@ -1,0 +1,25 @@
+--cpu Cortex-M0
+".\objects\system_m0518.o"
+".\objects\startup_m0518.o"
+".\objects\core_cm0.o"
+".\objects\retarget.o"
+".\objects\main.o"
+".\objects\fmc.o"
+".\objects\gpio.o"
+".\objects\clk.o"
+".\objects\pwm.o"
+".\objects\sys.o"
+".\objects\timer.o"
+".\objects\uart.o"
+".\objects\usere84.o"
+".\objects\userfmc.o"
+".\objects\userpwm0.o"
+".\objects\userpwm1.o"
+".\objects\usersystem.o"
+".\objects\usertimer1.o"
+".\objects\usertimer2.o"
+".\objects\userwdt.o"
+".\objects\useruart.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\E84_Connector_P_0923.map" -o .\Objects\E84_Connector_P_0923.axf

@@ -1,0 +1,16 @@
+.\objects\adc.o: source\adc.c
+.\objects\adc.o: .\system\M0518.h
+.\objects\adc.o: .\system\core_cm0.h
+.\objects\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: .\system\core_cmInstr.h
+.\objects\adc.o: .\system\core_cmFunc.h
+.\objects\adc.o: .\system\system_M0518.h
+.\objects\adc.o: .\StdDriver\inc\SYS.h
+.\objects\adc.o: .\StdDriver\inc\GPIO.h
+.\objects\adc.o: .\StdDriver\inc\PWM.h
+.\objects\adc.o: .\StdDriver\inc\TIMER.h
+.\objects\adc.o: .\StdDriver\inc\CLK.h
+.\objects\adc.o: .\header\def_const.h
+.\objects\adc.o: .\header\def_exram.h
+.\objects\adc.o: .\header\def_struct.h
+.\objects\adc.o: .\header\def_flag.h
